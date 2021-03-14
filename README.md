@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `Things that I would created better:`
-Splitting title and content into 2 components.
+Splitting form and content into 2 components.
 
 Dynamic fields for both components using props or anything else in my domain.
 
