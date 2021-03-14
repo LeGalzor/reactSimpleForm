@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+`Things that I would created better:`
+Splitting title and content into 2 components.
+Dynamic fields for both components using props or anything else in my domain.
+Fixing the Button and the Checkbox validation.
+Finishing the API request and moving it to a service.js file of some sort.
+
+There is alot to do in 2-3 hours especially if most of the time is burned on CORS.
+Nevertheless I thank you for the challenge React is not my goto language these days.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
